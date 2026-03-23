@@ -17,4 +17,4 @@ just do it
 
 ## External hardware
 
-fingers
+finger(s)
